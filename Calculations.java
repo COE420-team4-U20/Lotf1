@@ -12,7 +12,8 @@ public class Calculations {
 		
 		//member_C add the feature of dividing x by y and print the result
 		
-		//member_D add the feature of multiplying x by y and print the result
+		int mul = x*y;
+		System.out.println("The mul is= "+ mul);
 		
 		
 	}
